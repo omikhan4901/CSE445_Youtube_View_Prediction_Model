@@ -1,6 +1,6 @@
-# YouTube Channel View Prediction: A Machine Learning Project
+# YouTube Channel View Prediction: Ensemble Learning Project
 
-This repository contains a Jupyter Notebook (`Youtube_Prediction_K_Fold_RandomSearch_GridSearchCV_Logarithmic_Transformation.ipynb`) that demonstrates a comprehensive machine learning pipeline for predicting YouTube channel view counts. The project utilizes publicly available metadata and employs robust techniques to build and evaluate a high-performing predictive model.
+This repository contains a Jupyter Notebook (`YouTube_View_Prediction_with_Ensemble_Model.ipynb`) that demonstrates a comprehensive machine learning pipeline for predicting YouTube channel view counts. The project specifically focuses on **ensemble learning** to build and evaluate a high-performing and robust predictive model using publicly available metadata.
 
 ---
 
@@ -109,7 +109,7 @@ The project uses the "Global YouTube Statistics" dataset.
 * **Download:** Ensure you have the `Global-YouTube-Statistics.csv` file. This file should be placed in the **same directory** as your Jupyter Notebook (`.ipynb`) file.
 
 ### 5.4 Download the Notebook
-Download the `Youtube_Prediction_K_Fold_RandomSearch_GridSearchCV_Logarithmic_Transformation.ipynb` file from its source (e.g., your Google Colab environment via `File > Download > Download .ipynb`).
+Download the `YouTube_View_Prediction_with_Ensemble_Model.ipynb` file from its source (e.g., your Google Colab environment via `File > Download > Download .ipynb`).
 
 ---
 
@@ -124,7 +124,7 @@ Download the `Youtube_Prediction_K_Fold_RandomSearch_GridSearchCV_Logarithmic_Tr
     jupyter notebook
     ```
     This will open a new tab in your web browser, displaying the Jupyter Notebook dashboard.
-3.  **Open the Notebook:** Click on `Youtube_Prediction_K_Fold_RandomSearch_GridSearchCV_Logarithmic_Transformation.ipynb` to open it.
+3.  **Open the Notebook:** Click on `YouTube_View_Prediction_with_Ensemble_Model.ipynb` to open it.
 4.  **Execute Cells:** Run all cells sequentially from top to bottom. You can do this by selecting `Cell > Run All` from the menu, or by clicking each cell and pressing `Shift + Enter`.
 
 ---
